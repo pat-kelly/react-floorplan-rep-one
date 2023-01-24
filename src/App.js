@@ -1,10 +1,11 @@
 import './App.css';
+import USA from './USA';
 
 function App() {
   return (
-    <div>
-      
-    </div>
+    <>
+      <USA />
+    </>
   );
 }
 
